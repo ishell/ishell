@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=rails,postgres,elixir,python,fastapi,android,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,postgres,elixir,python,fastapi,kotlin,swift)](https://skillicons.dev)
 
 <!--
 **ishell/ishell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
